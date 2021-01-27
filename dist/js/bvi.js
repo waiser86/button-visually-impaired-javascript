@@ -834,7 +834,6 @@
                 '            </div>\n' +
                 '            <div class="bvi-row bvi-mt">\n' +
                 '                <div class="bvi-col-12 bvi-text-center">\n' +
-                '                    <a href="http://bvi.isvek.ru/" class="bvi-link-copy" target="_blank" title="bvi.isvek.ru v2.0">bvi.isvek.ru</a>\n' +
                 '                </div>\n' +
                 '            </div>\n' +
                 '        </div>\n' +
